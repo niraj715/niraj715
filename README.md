@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Niraj Kumar Sahani </h1>
-Welcome to my GitHub profile! 👋 I'm a passionate Frontend Developer dedicated to crafting intuitive, responsive, and visually engaging user interfaces. With a strong focus on modern web technologies, I strive to blend creativity with functionality to deliver seamless digital experiences. Whether it's designing sleek UI components or optimizing performance, I love turning ideas into interactive and user-friendly web applications. Let's build something amazing together! 🚀💻
+Welcome! 👋 I'm a passionate Frontend Developer dedicated to crafting intuitive, responsive, and visually engaging user interfaces. With a strong focus on modern web technologies, I strive to blend creativity with functionality to deliver seamless digital experiences. Whether it's designing sleek UI components or optimizing performance, I love turning ideas into interactive and user-friendly web applications. Let's build something amazing together! 🚀💻
 <h1> About Me</h1>
 - 🌱 I'm currently diving into Python and Django for backend development 💻 while also exploring various AI tools to enhance both my workflow and career growth. My goal is to streamline processes, build smarter applications, and make technology work seamlessly for me. 🚀😆
 <hr>
