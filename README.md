@@ -8,7 +8,6 @@ Welcome to my github! I'm a passionate Frontend Developer dedicated to crafting 
 - 📫Feel free to connect with me via email or through my social links—let's collaborate and build something amazing! 📩🚀
 <hr>
 
--⚡ Fun fact: <h5>My code runs perfectly… until I show it to someone! 😅🔧<h5>
 ## 🚀 Tech Stack  
 
 | HTML | CSS | JavaScript | React | Next.js |
