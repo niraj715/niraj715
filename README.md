@@ -1,4 +1,4 @@
-<h1>👋 Hey, It's me Niraj Kumar Sahani </h1>
+<h1>👋 Hey, It's me Niraj</h1>
 Welcome to my github! I'm a passionate Frontend Developer dedicated to crafting intuitive, responsive, and visually engaging user interfaces. With a strong focus on modern web technologies, I strive to blend creativity with functionality to deliver seamless digital experiences. Whether it's designing sleek UI components or optimizing performance, I love turning ideas into interactive and user-friendly web applications. Let's build something amazing together! 🚀💻
 <h1>About Me</h1>
 - 🌱 I'm currently diving into Python and Django for backend development 💻 while also exploring various AI tools to enhance both my workflow and career growth. My goal is to streamline processes, build smarter applications, and make technology work seamlessly for me. 🚀😆
@@ -20,7 +20,7 @@ Welcome to my github! I'm a passionate Frontend Developer dedicated to crafting 
 
 | Python | Django | Git | GitHub | VS Code |
 |--------|--------|-----|--------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medusajs/medusajs-original.svg" width="40"/>
 
 
 
