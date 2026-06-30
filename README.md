@@ -16,7 +16,7 @@ Welcome to my github! I'm a passionate Frontend Developer dedicated to crafting 
 
 | Tailwind CSS | Bootstrap | Sass | GSAP | CodePen |
 |-------------|----------|------|------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/GSAP_Logo.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/GSAP_Logo.svg" width="40"/> 
 
 | Python | Django | Git | GitHub | VS Code |
 |--------|--------|-----|--------|---------|
